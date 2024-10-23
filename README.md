@@ -6,7 +6,6 @@ David Oswaldo Silva Gutiérrez
 El Maneki-Neko (Robot) tiene un sensor de proximidad que detecta movimiento a una distancia de 10 cm. Al activarse, el gato prende los LEDs en sus ojos, mueve su pata en un ángulo de 90°, emite un sonido navideño. Todo esto sucede durante un breve periodo de tiempo al detectar el movimiento, después de lo cual el sistema se apaga automáticamente hasta que vuelva a detectar otra señal.
 
 ## Materiales a utlizar
-|Material|Imagen|Cantidad|Costo|
 |Placa ESP32|![imagen](https://github.com/user-attachments/assets/f3023902-e89a-4899-ba81-78a27f6382f4) |1	|    $120.00
 
 LEDs![imagen](https://github.com/user-attachments/assets/0d5c305a-ec29-448c-a9cc-2d5ec361b73d)
