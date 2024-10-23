@@ -50,13 +50,14 @@ Enlace de la casa inteligente de wokwi https://wokwi.com/projects/41257278495262
 Enlace de la simulación de Arduino https://wokwi.com/projects/412573641897247745
 
 
-## Capturas de Evaluaciones de Curso de C
-![imagen](https://github.com/user-attachments/assets/080a2fa7-ac52-4c4b-93f7-4c547c0b45c0)
-![imagen](https://github.com/user-attachments/assets/10fa6a46-773f-4361-92dd-af7ebb0507a0)
-![imagen](https://github.com/user-attachments/assets/2000054b-3390-4378-8e8a-0870cd780c29)
-![imagen](https://github.com/user-attachments/assets/90940a29-6d0a-4f68-9e32-61c8f63af9e8)
-![imagen](https://github.com/user-attachments/assets/7009f5f6-4326-4d37-9d62-3c528ee7b02e)
-![imagen](https://github.com/user-attachments/assets/46cff244-2515-447a-8885-5f4cb4127620)
+## Capturas de Evaluaciones de Curso de Python
+![imagen](https://github.com/user-attachments/assets/49cdb4ce-052c-49a9-9fff-d3dcd7142a18)
+![imagen](https://github.com/user-attachments/assets/e66e345f-4448-4efa-99ed-5a075027d95a)
+![imagen](https://github.com/user-attachments/assets/54ecc469-3f8a-4adf-b399-84c179ecf100)
+![imagen](https://github.com/user-attachments/assets/911b7b0e-7ea4-492a-9ccb-7c94d343e818)
+
+
+
 
 
 
