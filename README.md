@@ -52,10 +52,8 @@ Enlace de la simulación de Arduino https://wokwi.com/projects/41257364189724774
 https://drive.google.com/file/d/1JLd_V5mQTo3L8Q0vUecxQTGzZ0DFtQLT/view?usp=drive_link
 
 ## Capturas de Evaluaciones de Curso de Python
-![imagen](https://github.com/user-attachments/assets/49cdb4ce-052c-49a9-9fff-d3dcd7142a18)
-![imagen](https://github.com/user-attachments/assets/e66e345f-4448-4efa-99ed-5a075027d95a)
-![imagen](https://github.com/user-attachments/assets/54ecc469-3f8a-4adf-b399-84c179ecf100)
-![imagen](https://github.com/user-attachments/assets/911b7b0e-7ea4-492a-9ccb-7c94d343e818)
+![imagen](https://github.com/user-attachments/assets/3fe31e74-ca82-4975-9a04-d5ede07a92d7)
+![imagen](https://github.com/user-attachments/assets/1eaeef29-0d8f-46d1-9616-192931eb1345)
 
 
 
