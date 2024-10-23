@@ -40,5 +40,12 @@ Enlace de la simulación de Arduino https://wokwi.com/projects/41257364189724774
 
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+![imagen](https://github.com/user-attachments/assets/080a2fa7-ac52-4c4b-93f7-4c547c0b45c0)
+![imagen](https://github.com/user-attachments/assets/10fa6a46-773f-4361-92dd-af7ebb0507a0)
+![imagen](https://github.com/user-attachments/assets/2000054b-3390-4378-8e8a-0870cd780c29)
+![imagen](https://github.com/user-attachments/assets/90940a29-6d0a-4f68-9e32-61c8f63af9e8)
+![imagen](https://github.com/user-attachments/assets/7009f5f6-4326-4d37-9d62-3c528ee7b02e)
+![imagen](https://github.com/user-attachments/assets/46cff244-2515-447a-8885-5f4cb4127620)
+
+
 
