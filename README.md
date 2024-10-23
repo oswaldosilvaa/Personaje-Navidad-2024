@@ -38,7 +38,6 @@ Pintura (acrílica)	     ![imagen](https://github.com/user-attachments/assets/35
 
 
 ## Software a utilizar
-|Software|Versión|
 Arduino y Thonny
 
 ## Dibujo del personaje
@@ -49,6 +48,8 @@ Arduino y Thonny
 Enlace de la casa inteligente de wokwi https://wokwi.com/projects/412572784952625153
 Enlace de la simulación de Arduino https://wokwi.com/projects/412573641897247745
 
+## Video
+https://drive.google.com/file/d/1JLd_V5mQTo3L8Q0vUecxQTGzZ0DFtQLT/view?usp=drive_link
 
 ## Capturas de Evaluaciones de Curso de Python
 ![imagen](https://github.com/user-attachments/assets/49cdb4ce-052c-49a9-9fff-d3dcd7142a18)
