@@ -7,24 +7,35 @@ El Maneki-Neko (Robot) tiene un sensor de proximidad que detecta movimiento a un
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
-Material                                     	Cantidad	Costo Aproximado (MXN)
-Placa ESP32	                                    	1	    $120.00
-LEDs (varios colores)	                          	5	    $30.00
-Resistor (220 Ω)	                              	5	    $10.00
-Sensor de movimiento (PIR)	                    	1    	$80.00
-Altavoz pequeño o buzzer	                      	1	   	$50.00
-Placa de prototipado (breadboard)	              	1	   	$100.00
-Cables de conexión		                           10	   	$30.00	
-Fuente de alimentación (batería o adaptador)	  	1	   	$80.00
-Adhesivos (silicona caliente, cinta)	            1	   	$30.00
-Tela (fieltro o similar)	                        1	   	$50.00
-Relleno (algodón o espuma)	                      1    bolsa	$40.00
-Ojos (plásticos o botones)	                      2	   	$10.00
-Cabello (lana o sintético)                      	1    	paquete	$20.00
-Pintura (acrílica)	                              1    	set	$50.00
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot; width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot; />|1|30.00|
-|...||||
+Placa ESP32![imagen](https://github.com/user-attachments/assets/f3023902-e89a-4899-ba81-78a27f6382f4)
+	                                    	1	    $120.00
+LEDs![imagen](https://github.com/user-attachments/assets/71824fcb-e8db-4cb0-87b2-1f933cd560c2)
+ (varios colores)	                          	5	    $30.00
+Resistor![imagen](https://github.com/user-attachments/assets/1a41df39-a729-463d-aa19-ed8e068bf91a)
+ (220 Ω)	                              	5	    $10.00
+Sensor de movimiento (PIR)![imagen](https://github.com/user-attachments/assets/74d36c80-b622-41c8-b640-5de2e85118de)
+	                    	1    	$80.00
+Altavoz pequeño o buzzer	![imagen](https://github.com/user-attachments/assets/fe46020a-887f-4cc7-a17a-5f8998e4db24)
+                      	1	   	$50.00
+Placa de prototipado (breadboard)	![imagen](https://github.com/user-attachments/assets/fd87d3bf-667c-4f20-a91d-cf7a06ee823a)
+              	1	   	$100.00
+Cables de conexión		![imagen](https://github.com/user-attachments/assets/53786a3f-939f-48e5-a53d-399a60b5e2c9)
+                           10	   	$30.00	
+Fuente de alimentación (batería o adaptador)	![imagen](https://github.com/user-attachments/assets/162d7cf0-d2bc-4920-9573-4894bc227897)
+  	1	   	$80.00
+Adhesivos (silicona caliente, cinta)	  ![imagen](https://github.com/user-attachments/assets/67a4eeb8-3602-4779-9134-8034f4fddc3f)
+          1	   	$30.00
+Tela (fieltro o similar)	  ![imagen](https://github.com/user-attachments/assets/4d82d2aa-178b-4120-8637-66f101abcb16)
+                      1	   	$50.00
+Relleno (algodón o espuma)	   ![imagen](https://github.com/user-attachments/assets/73cf6c61-7d9a-4fb7-81f8-33b00799227e)
+                   1    bolsa	$40.00
+Ojos (plásticos o botones)	      ![imagen](https://github.com/user-attachments/assets/e111e64e-952f-4770-8218-8fcae9e19b23)
+                2	   	$10.00
+Cabello (lana o sintético)  ![imagen](https://github.com/user-attachments/assets/4820b02f-6f6b-493b-a95d-c88cf268d89e)
+                    	1    	paquete	$20.00
+Pintura (acrílica)	     ![imagen](https://github.com/user-attachments/assets/356cfff3-59ea-40c7-9a58-fd0c19aa712c)
+                         1    	set	$50.00
+
 
 ## Software a utilizar
 |Software|Versión|
