@@ -7,7 +7,7 @@ El Maneki-Neko (Robot) tiene un sensor de proximidad que detecta movimiento a un
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
-|Placa ESP32|Captura de pantalla 2024-09-27 103702|1|$120.00|
+|Placa ESP32|<img src="Captura de pantalla 2024-09-27 103702; width="100"/>|1|$120.00|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot; width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot; />|1|30.00|
 |...||||
