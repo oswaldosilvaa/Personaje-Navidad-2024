@@ -7,10 +7,9 @@ El Maneki-Neko (Robot) tiene un sensor de proximidad que detecta movimiento a un
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
-Placa ESP32![imagen](https://github.com/user-attachments/assets/f3023902-e89a-4899-ba81-78a27f6382f4)
-	                                    	1	    $120.00
+Placa ESP32![imagen](https://github.com/user-attachments/assets/f3023902-e89a-4899-ba81-78a27f6382f4) 1	    $120.00
 LEDs![imagen](https://github.com/user-attachments/assets/71824fcb-e8db-4cb0-87b2-1f933cd560c2)
- (varios colores)	                          	5	    $30.00
+(varios colores)	                          	5	    $30.00
 Resistor![imagen](https://github.com/user-attachments/assets/1a41df39-a729-463d-aa19-ed8e068bf91a)
  (220 Ω)	                              	5	    $10.00
 Sensor de movimiento (PIR)![imagen](https://github.com/user-attachments/assets/74d36c80-b622-41c8-b640-5de2e85118de)
